@@ -1,0 +1,6 @@
+Flask
+flask-restful
+flask-httpauth
+flask-sqlalchemy
+mysql-python
+passlib
